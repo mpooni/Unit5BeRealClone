@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+/private/var/folders/f6/gjwjhfz15bs8gqwq_5wy4q7m0000gn/T/cc09b6cf716fcaa3f55aceba6918da34/Kapture 2023-03-28 at 00.37.30.gif
 
 ## Notes
 
